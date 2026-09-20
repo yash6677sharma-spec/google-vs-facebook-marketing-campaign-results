@@ -4,7 +4,7 @@
 
 A Data Analyst project focused on analyzing and comparing marketing campaign performance across Google and Facebook using Microsoft Excel.
 
-The project transforms advertising campaign data into summary tables, analysis, and an interactive Excel dashboard to understand campaign performance and key marketing metrics.
+The project transforms advertising campaign data into summary tables, analysis, and an Excel dashboard to understand campaign performance and key marketing metrics.
 
 ## 🎯 Project Objective
 
@@ -38,6 +38,18 @@ The Excel workbook contains the following sheets:
 - `pivotable` — Pivot table analysis
 - `Ad-data-Assignment-1` — Main dataset
 
+## 📊 Pivot Analysis Preview
+
+The pivot analysis summarizes advertising spend and campaign performance by age group.
+
+![Pivot Analysis](pivot-analysis.svg)
+
+## 📈 Dashboard Preview
+
+A dashboard-style view of the campaign data, including total spend, impressions, clicks, CTR, platform spend, and monthly spend trends.
+
+![Campaign Dashboard](campaign-dashboard.svg)
+
 ## 📈 Analysis Performed
 
 ### Marketing Channel Analysis
@@ -54,12 +66,6 @@ Comparison of performance across different marketing sub-channels.
 
 ### Pivot Table Analysis
 Pivot tables were used to summarize the raw marketing data and identify patterns and trends.
-
-## 📊 Dashboard
-
-The project includes an Excel dashboard designed to provide a quick overview of the marketing campaign results.
-
-The dashboard combines key analysis and visualizations into a single view for easier interpretation of campaign performance.
 
 ## 🔍 Data Analytics Skills Demonstrated
 
