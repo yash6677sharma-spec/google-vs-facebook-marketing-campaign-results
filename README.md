@@ -38,19 +38,15 @@ The Excel workbook contains the following sheets:
 - `pivotable` — Pivot table analysis
 - `Ad-data-Assignment-1` — Main dataset
 
-## 📊 Pivot & Excel Analysis Preview
+## 📊 Pivot Table Preview
 
-The following screenshots show the actual Excel pivot-table and analysis work uploaded to this repository.
+Here is the actual pivot-table analysis from the Excel project.
 
-![Pivot Analysis 1](Screenshot%202026-09-21%20143517.png)
-
-![Pivot Analysis 2](Screenshot%202026-09-21%20143618.png)
-
-![Pivot Analysis 3](Screenshot%202026-09-21%20143653.png)
+![Pivot Table Analysis](Screenshot%202026-09-21%20143517.png)
 
 ## 📈 Dashboard Preview
 
-The actual Excel dashboard screenshot is included below.
+Here is the actual Excel dashboard from the project.
 
 ![Campaign Dashboard](Screenshot%202026-09-21%20143708.png)
 
