@@ -21,12 +21,12 @@ The objective of this project is to analyze marketing campaign data and understa
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel
-- Pivot Tables
-- Excel Charts
-- Data Cleaning
-- Data Analysis
-- Dashboard Design
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2F80ED?style=for-the-badge)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-4472C4?style=for-the-badge)
+![Excel Charts](https://img.shields.io/badge/Excel%20Charts-70AD47?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-5B9BD5?style=for-the-badge)
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-ED7D31?style=for-the-badge)
 
 ## 📁 Project Structure
 
