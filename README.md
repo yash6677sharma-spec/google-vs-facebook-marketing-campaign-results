@@ -46,9 +46,11 @@ Here is the actual pivot-table analysis from the Excel project.
 
 ## 📈 Dashboard Preview
 
-Here is the actual Excel dashboard from the project.
+Here are the two actual dashboard screenshots from the Excel project.
 
-![Campaign Dashboard](Screenshot%202026-09-21%20143708.png)
+![Dashboard - Overview](Screenshot%202026-09-21%20143618.png)
+
+![Dashboard - Details](Screenshot%202026-09-21%20143653.png)
 
 ## 📈 Analysis Performed
 
