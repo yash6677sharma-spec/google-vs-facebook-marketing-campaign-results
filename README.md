@@ -38,17 +38,21 @@ The Excel workbook contains the following sheets:
 - `pivotable` — Pivot table analysis
 - `Ad-data-Assignment-1` — Main dataset
 
-## 📊 Pivot Analysis Preview
+## 📊 Pivot & Excel Analysis Preview
 
-The pivot analysis summarizes advertising spend and campaign performance by age group.
+The following screenshots show the actual Excel pivot-table and analysis work uploaded to this repository.
 
-![Pivot Analysis](pivot-analysis.svg)
+![Pivot Analysis 1](Screenshot%202026-09-21%20143517.png)
+
+![Pivot Analysis 2](Screenshot%202026-09-21%20143618.png)
+
+![Pivot Analysis 3](Screenshot%202026-09-21%20143653.png)
 
 ## 📈 Dashboard Preview
 
-A dashboard-style view of the campaign data, including total spend, impressions, clicks, CTR, platform spend, and monthly spend trends.
+The actual Excel dashboard screenshot is included below.
 
-![Campaign Dashboard](campaign-dashboard.svg)
+![Campaign Dashboard](Screenshot%202026-09-21%20143708.png)
 
 ## 📈 Analysis Performed
 
